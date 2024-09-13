@@ -21,7 +21,7 @@ This is a simple calculator web application that supports both light and dark th
 1. **Clone the Repository**
 
    ```bash
-   git clone 
+   git clone https://github.com/Chandrikapeela/Light-dark-theme-calculator.git
    cd calculator
    ```
 
