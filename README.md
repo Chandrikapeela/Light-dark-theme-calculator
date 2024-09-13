@@ -1,4 +1,4 @@
-Calculator with Light/Dark Theme
+**Calculator with Light/Dark Theme**
 This is a simple calculator web application that supports both light and dark themes. It provides basic arithmetic functions and allows users to toggle between themes for a more personalized experience.
 
 Features
